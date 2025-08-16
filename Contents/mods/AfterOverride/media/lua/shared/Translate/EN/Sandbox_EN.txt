@@ -1,0 +1,8 @@
+
+Sandbox_EN = {
+    Sandbox_HSP = "Hephas Stalker PDA",
+    Sandbox_HSP_OnlyAllowPDAMap = "Map Only Accessable Through PDA",
+    Sandbox_HSP_OnlyAllowPDAMiniMap = "Mini Map Only Accessable With PDA",
+    Sandbox_HSP_SpawnWithPDA = "Enable PDA On Spawn",  
+    Sandbox_HSP_UseFahrenheit = "Use Fahrenheit In Weather Forecast",  
+}

@@ -1,0 +1,6 @@
+id=afterroleplay-override
+name=After Roleplay Override
+description=After Roleplay Override - İzinsiz kullanımı, düzenlenmesi/dağıtımı veyahut çoğaltılması ve başka platformlarda yayınlanması yasaklanmıştır.
+poster=poster.png
+require=SignalisOverhaul,HephasStalkerPDA
+authors=cobwebwell

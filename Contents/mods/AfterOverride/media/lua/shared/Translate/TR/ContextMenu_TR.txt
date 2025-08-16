@@ -1,0 +1,6 @@
+ContextMenu_TR = {
+    ContextMenu_Interact = "Etkile�im Kur",
+    ContextMenu_ShowMap = "Haritay� G�ster",
+    ContextMenu_ShowMiniMap = "Mini Haritay� G�ster",
+    ContextMenu_GetWeatherForecast = "Hava Durumu Tahmini Al",
+}

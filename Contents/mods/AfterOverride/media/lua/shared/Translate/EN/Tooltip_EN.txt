@@ -1,0 +1,3 @@
+Tooltip_EN = {
+    Tooltip_Hephas_StalkerPDA = "A rugged yet unexpectedly advanced device, it offers a wide range of features, from precise map and coordinate tracking to extreme weather forecasts. <br>Its radio functionality enables it to receive transmissions, though the battery only depletes when in active use for this purpose.",
+}

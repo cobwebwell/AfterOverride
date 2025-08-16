@@ -1,0 +1,6 @@
+ContextMenu_EN = {
+	ContextMenu_Interact = "Interact",
+	ContextMenu_ShowMap = "Show Map",
+    ContextMenu_ShowMiniMap  = "Show Mini Map",
+    ContextMenu_GetWeatherForecast = "Get Weather Forecast",
+} 

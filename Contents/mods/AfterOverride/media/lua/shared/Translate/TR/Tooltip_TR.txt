@@ -1,0 +1,3 @@
+Tooltip_TR = {
+    Tooltip_Hephas_StalkerPDA = "Sert yapýsýna raðmen beklenmedik derecede geliþmiþ bir cihazdýr; hassas harita ve koordinat takibinden aþýrý hava tahminlerine kadar geniþ bir özellik yelpazesi sunar. <br>Radyo iþlevi, yayýnlarý almasýný saðlar, ancak pil sadece bu amaçla aktif kullanýldýðýnda tüketilir.",
+}

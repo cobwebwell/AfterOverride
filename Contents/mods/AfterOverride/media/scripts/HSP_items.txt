@@ -1,0 +1,86 @@
+module Base
+{  
+
+	sound PDAInteraction
+	{
+		category = Item,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/PDAInteraction.ogg,
+			volume = 0.5,  
+		}
+	}
+
+	sound PDANews
+	{
+		category = Item,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/PDANews.ogg,
+			volume = 0.5,  
+		}
+	}
+
+	sound PDAMiniMap
+	{
+		category = Item,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/PDAMiniMap.ogg,
+			volume = 0.5,  
+		}
+	}
+
+	sound PDATip
+	{
+		category = Item,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/PDATip.ogg,
+			volume = 0.5,  
+		}
+	}
+
+	item Hephas_StalkerPDA
+	{
+		DisplayName = PDA,
+		DisplayCategory = Communications,
+		Type = Radio,
+		AttachmentType = Walkie,
+		Weight = 1.0,
+		Icon = IconStalkerPDA,
+		BaseVolumeRange = 12,
+		DisappearOnUse = FALSE,
+		IsHighTier = FALSE,
+		IsPortable = TRUE,
+		IsTelevision = FALSE,
+		MaxChannel = 300000,
+		MicRange = 5,
+		MinChannel = 25000,
+		TransmitRange = 4000,
+		TwoWay = TRUE,
+		UseDelta = 0.007, 
+		UseWhileEquipped = FALSE,
+		UsesBattery = TRUE,
+		StaticModel = 		Hephas_StalkerPDA,
+		WorldStaticModel =	Hephas_StalkerPDA_Ground,
+		Tooltip = Tooltip_Hephas_StalkerPDA,
+		primaryAnimMask = HoldingUmbrellaRight,
+        secondaryAnimMask = HoldingUmbrellaLeft,
+		Tags = MiscElectronic,
+	}
+
+	item Hephas_PDAMapTool 
+	{
+        DisplayName = PDA Map Tool,
+        Type = Normal,
+        Tags = Write;Pencil;Eraser;Pen;RedPen;GreenPen;BluePen,
+        Weight = 0.1,
+        Icon = Pen,
+	}
+
+}

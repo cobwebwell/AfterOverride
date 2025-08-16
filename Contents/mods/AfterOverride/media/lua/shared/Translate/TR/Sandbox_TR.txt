@@ -1,0 +1,8 @@
+Sandbox_TR = {
+    Sandbox_HSP = "Hephas Stalker PDA",
+    Sandbox_HSP_OnlyAllowPDAMap = "Haritaya Yalnýzca PDA Üzerinden Eriþim Saðlanabilir",
+    Sandbox_HSP_OnlyAllowPDAMiniMap = "Sadece PDA ile Eriþilebilen Mini Harita",
+    Sandbox_HSP_SpawnWithPDA = "Baþlangýçta PDA'yý Etkinleþtir",
+	Sandbox_HSP_UseFahrenheit = "Hava Durumu Tahmininde Fahrenheit Kullan",
+
+}
