@@ -1,6 +1,6 @@
 ContextMenu_TR = {
-    ContextMenu_Interact = "Etkileï¿½im Kur",
-    ContextMenu_ShowMap = "Haritayï¿½ Gï¿½ster",
-    ContextMenu_ShowMiniMap = "Mini Haritayï¿½ Gï¿½ster",
+    ContextMenu_Interact = "Etkileþim Kur",
+    ContextMenu_ShowMap = "Haritayý Göster",
+    ContextMenu_ShowMiniMap = "Mini Haritayý Göster",
     ContextMenu_GetWeatherForecast = "Hava Durumu Tahmini Al",
 }
