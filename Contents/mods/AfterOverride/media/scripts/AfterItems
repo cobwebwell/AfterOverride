@@ -1,0 +1,14 @@
+module Base
+{
+    item AfterBrosur1
+    {
+        DisplayCategory = Cartography,
+        Type = Map,
+        DisplayName = Bilgilendirme Brosuru,
+        Icon = Map,
+        Weight = 0.1,
+        Map = AfterBrosur1,
+        WorldStaticModel = Map,
+    }
+}
+
