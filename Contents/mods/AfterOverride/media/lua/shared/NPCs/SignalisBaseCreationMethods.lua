@@ -1,7 +1,7 @@
 signalisCharacter = {};
 
 signalisCharacter.DoProfessions = function()
-	if getAccessLevel() == "admin" or getAccessLevel() == "gm" then
+	if getAccessLevel() == "admin" or getAccessLevel() == "gm" or string.find(username, "%-") then
 		print("Yetki check; VaaaAaaAay, yetkiye bak! Evinize hosgeldiniz efendim.")
 		-- FKLR
 		local fklr = ProfessionFactory.addProfession("fklr", getText("UI_prof_Fklr_Replika"), "icon_FKLR_Replika", -4)
