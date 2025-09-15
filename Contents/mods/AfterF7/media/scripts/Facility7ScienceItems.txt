@@ -1,0 +1,30 @@
+module FacilityScienceItems
+{
+    imports
+    {
+	Base
+    }
+
+    item DNASequence
+    {
+        Type = Normal,
+        DisplayName = DNA Sequence,
+        Icon = dnaSequence_icon,
+        Weight = 0.5
+    }
+    item TissueSample
+    {
+        Type = Normal,
+        DisplayName = Tissue Sample,
+        Icon = tissueSample_icon,
+        Weight = 0.5
+    }
+    item RNADecoder
+    {
+        Type = Normal,
+        DisplayName = RNA Decoder,
+        Icon = rnaDecoder_icon,
+        Weight = 0.5
+    }
+
+}

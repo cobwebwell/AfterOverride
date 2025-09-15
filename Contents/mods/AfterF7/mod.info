@@ -1,0 +1,8 @@
+name=AfterF7
+id=AfterF7
+description= Facility-7 is the Scorpion Institute of Technology and Research's most advanced site. Miles of state of the art research labs and production lines hidden deep under Washington State's soil. They do it all: medicine, robotics, weapons, and far more... questionable areas of study. <LINE> <LINE> Use your wits and watch every step to make it out in the Flee Facility-7 Challenge, or go guns blazing to complete objectivies in the Facility-7: Retrieval Operations Challenge! Or create your own scenarios in the custom sandbox. <LINE> <LINE> This mod boasts 2 unique challenges, over 16 new traits, and 2 new professions with exclusive trait options! It is still very heavily WIP and there are plenty of bugs and exploits (But fully playable!), so please report any that you find on the workshop page. <LINE> <LINE> Have fun, and thanks for playing <LINE> ~Spyjack
+poster=poster.png
+tiledef=nelsoncountytiles 5970
+tiledef=facility7 5971
+pack=nelsoncountytextures
+pack=facility7
