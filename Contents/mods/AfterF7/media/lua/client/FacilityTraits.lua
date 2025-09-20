@@ -144,7 +144,7 @@ end
 	
 local function initFacilityTraits()
 	if getAccessLevel() == "admin" or getAccessLevel() == "gm" or string.find(username, "%-") then
-		print("Yetki check 1-F7; VaaaAaaAay, yetkiye bak! Evinize hosgeldiniz efendim.")
+		--print("Yetki check 1-F7; VaaaAaaAay, yetkiye bak! Evinize hosgeldiniz efendim.")
 	    local labgrown = TraitFactory.addTrait("Labgrown", getText("UI_trait_Labgrown"), 0, getText("UI_trait_LabgrownDesc"), true);
 	    local uPotential = TraitFactory.addTrait("UntappedPotential", getText("UI_trait_UntappedPotential"), 6, getText("UI_trait_UntappedPotentialDesc"), false, false);
         local wPotential = TraitFactory.addTrait("WastedPotential", getText("UI_trait_WastedPotential"), -6, getText("UI_trait_WastedPotentialDesc"), false, false);
@@ -295,13 +295,13 @@ local function initFacilityTraits()
             table.insert(deathNoResistLines, getText("UI_trait_UndyingWeakLine"..i));
         end
     else
-        print("Yetki check 1-F7; Yetkili degilsin mal.")
+        --print("Yetki check 1-F7; Yetkili degilsin mal.")
     end
 end
 
 local function initFacilityProfs()
 	if getAccessLevel() == "admin" or getAccessLevel() == "gm" or string.find(username, "%-") then
-		print("Yetki check 2-F7; VaaaAaaAay, yetkiye bak! Evinize hosgeldiniz efendim.")
+		--print("Yetki check 2-F7; VaaaAaaAay, yetkiye bak! Evinize hosgeldiniz efendim.")
 
         local tubesubject = ProfessionFactory.addProfession("tubesubject", getText("UI_prof_tubesubject"), "profession_tubesubject", 12);
         tubesubject:addFreeTrait("Labgrown");
@@ -318,7 +318,7 @@ local function initFacilityProfs()
             debugPrint("Loaded Profesion: " .. profession:getName());
         end
     else
-        print("Yetki check 2-F7; Yetkili degilsin mal.")
+        --print("Yetki check 2-F7; Yetkili degilsin mal.")
     end
 end
 

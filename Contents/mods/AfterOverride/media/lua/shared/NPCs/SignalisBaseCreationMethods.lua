@@ -2,7 +2,7 @@ signalisCharacter = {};
 
 signalisCharacter.DoProfessions = function()
 	if getAccessLevel() == "admin" or getAccessLevel() == "gm" or string.find(username, "%-") then
-		print("Yetki check; VaaaAaaAay, yetkiye bak! Evinize hosgeldiniz efendim.")
+		--print("Yetki check; VaaaAaaAay, yetkiye bak! Evinize hosgeldiniz efendim.")
 		-- FKLR
 		local fklr = ProfessionFactory.addProfession("fklr", getText("UI_prof_Fklr_Replika"), "icon_FKLR_Replika", -4)
 		fklr:addXPBoost(Perks.Spear, 2)
@@ -69,7 +69,7 @@ signalisCharacter.DoProfessions = function()
     	arar:getFreeRecipes():add("Make Small Metal Sheet")
     	arar:getFreeRecipes():add("Make Metal Roof")
 	else 
-		print("Yetki check; Yetkili degilsin mal.")
+		--print("Yetki check; Yetkili degilsin mal.")
 	end
 
 	local profList = ProfessionFactory.getProfessions()

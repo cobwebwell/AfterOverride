@@ -17,4 +17,7 @@ UI_EN = {
 	UI_StalkerPDA_TomorrowTemperature = "Tomorrow's temperature: Day: %s, Night: %s.",
 	UI_StalkerPDA_Conditions = "Conditions:",
 	UI_StalkerPDA_NoSignificantWeather = "No significant weather conditions expected.",
+	UI_trait_archer = "Archer",
+	UI_trait_archerdesc = "In the past, you were interested in archery. You gain 2 skill levels in Archery.",
+	UI_MBA_Progress = "Progress",
 }

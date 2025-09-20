@@ -17,4 +17,7 @@ UI_TR = {
 	UI_StalkerPDA_TomorrowTemperature = "Yarýn ki sýcaklýk: Gündüz: %s, Gece: %s.",
 	UI_StalkerPDA_Conditions = "Þartlar:",
 	UI_StalkerPDA_NoSignificantWeather = "Önemli bir hava olayý beklenmiyor.",
+	UI_trait_archer = "Archer",
+	UI_trait_archerdesc = "Önceden bir okçuydun, seviye iki okçuluk yeteneðin var.",
+	UI_MBA_Progress = "Ilerleme",
 }
