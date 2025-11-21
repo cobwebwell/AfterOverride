@@ -1,0 +1,34 @@
+UI_EN = {
+    
+    UI_prof_common = "Ýþsiz",
+    UI_profdesc_common = "Baþýnda bitmeyen bir aðrý, bulanýk hatýralar ve anýlar ile birlikte kendini burada buluyorsun.",
+
+    UI_prof_sharpshooter = "Kolluk Kuvvetleri",
+    UI_profdesc_sharpshooter = "Eski bir kolluk kuvvetleri personelisin, elin silahlar konusunda tecrübeli.",
+    
+    UI_prof_medic = "Saðlýk Personeli",
+    UI_profdesc_medic = "Saðlýk malzemeleri ve kullaným alanlarýnda tecrübelisin.",
+
+    UI_prof_cook = "Aþçý",
+    UI_profdesc_cook = "Aþçýlýk konusunda yeteneklisin, yaptýðýn þeyler sadece bir yemek deðil.",
+
+    UI_prof_farmer = "Çiftçi",
+    UI_profdesc_farmer = "Çiftçilikten anlýyorsun, eski hayatýndan olmalý.",
+
+    UI_prof_builder = "Amele",
+    UI_profdesc_builder = "Amele geldin, amele devam edeceksin. Duvar ve türlü þeylerin yapýmýný hatýrlýyorsun.",
+
+    UI_prof_thief = "Hýrsýz",
+    UI_profdesc_thief = "Eski hayatýnda bir hýrsýzdýn, düz kontak ve türlü þeylerden bazý hatýralarýn var...",
+
+    UI_prof_scrapmech = "Hurdacý",
+    UI_profdesc_scrapmech = "Metal ve türlülerinden anlýyorsun, jeneratör kullanmayý eski hayatýndan hatýrlýyorsun.",
+
+    UI_ClickToSkip = "Ýþte böyle öldün.",
+    UI_Loading = "Ölümün hazýrlanýyor.",
+    UI_Intro1 = "Ýnsan aðaca benzer, ne kadar yükseðe ve aydýnlýða çýkmak isterse...", 
+    UI_Intro2 = "O kadar kök salar yere, aþaðýlara, karanlýða, derinlere ve kötülüðe.", 
+    UI_Intro3 = "- Friedrich Nietzsche",
+    UI_mainscreen_version_steam = "made by cobwebwell with <3 - Versiyon %1 (Steam)",
+
+}
