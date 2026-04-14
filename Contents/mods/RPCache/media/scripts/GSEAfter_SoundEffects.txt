@@ -1,7 +1,5 @@
 module Base
 {
-
-    
     sound ashtray
     {
         category = Item,
@@ -331,6 +329,83 @@ module Base
         clip { file = media/sound/toashesandblood.ogg, volume = 0.20, }
     }
 
+    sound all_gone
+    {
+        category = Item,
+        maxInstancesPerEmitter = 1,    
+        clip { file = media/sound/all_gone.ogg, volume = 0.20, }
+    }
+    
+    sound waiting_around
+    {
+        category = Item,
+        maxInstancesPerEmitter = 1,    
+        clip { file = media/sound/waiting_around.ogg, volume = 0.20, }
+    }
+
+    sound take_us_back
+    {
+        category = Item,
+        maxInstancesPerEmitter = 1,    
+        clip { file = media/sound/take_us_back.ogg, volume = 0.20, }
+    }
+
+    sound alive_inside
+    {
+        category = Item,
+        maxInstancesPerEmitter = 1,    
+        clip { file = media/sound/alive_inside.ogg, volume = 0.20, }
+    }
+
+    sound bad_ending
+    {
+        category = Item,
+        maxInstancesPerEmitter = 1,    
+        clip { file = media/sound/bad_ending.ogg, volume = 0.20, }
+    }
+
+    sound bad_all_gone
+    {
+        category = Item,
+        maxInstancesPerEmitter = 1,    
+        clip { file = media/sound/bad_all_gone.ogg, volume = 0.20, }
+    }
+
+    sound bad_take_us_back
+    {
+        category = Item,
+        maxInstancesPerEmitter = 1,    
+        clip { file = media/sound/bad_take_us_back.mp3, volume = 0.20, }
+    }
+
+    sound bad_blood
+    {
+        category = Item,
+        maxInstancesPerEmitter = 1,    
+        clip { file = media/sound/bad_blood.mp3, volume = 0.20, }
+    }
+
+    sound civillian
+    {
+        category = Item,
+        maxInstancesPerEmitter = 1,    
+        clip { file = media/sound/civillian.mp3, volume = 0.20, }
+    }
+
+    sound we_are_born
+    {
+        category = Item,
+        maxInstancesPerEmitter = 1,    
+        clip { file = media/sound/we_are_born.mp3, volume = 0.20, }
+    }
+
+    sound mountains
+    {
+        category = Item,
+        maxInstancesPerEmitter = 1,    
+        clip { file = media/sound/mountains.mp3, volume = 0.20, }
+    }
+
     sound sfx_bell
     {
         category = Item,
@@ -476,54 +551,5 @@ module Base
         category = Item,
         maxInstancesPerEmitter = 1,    
         clip { file = media/sound/sfx_radio_static_3.mp3, volume = 0.20, }
-    }
-
-    sound sfx_thunder_close_01
-    {
-        category = Item,
-        maxInstancesPerEmitter = 1,    
-        clip { file = media/sound/sfx_thunder_close_01.wav, volume = 0.20, }
-    }
-
-    sound sfx_thunder_close_02
-    {
-        category = Item,
-        maxInstancesPerEmitter = 1,    
-        clip { file = media/sound/sfx_thunder_close_02.wav, volume = 0.20, }
-    }
-
-    sound sfx_thunder_close_03
-    {
-        category = Item,
-        maxInstancesPerEmitter = 1,    
-        clip { file = media/sound/sfx_thunder_close_03.wav, volume = 0.20, }
-    }
-
-    sound sfx_thunder_close_04
-    {
-        category = Item,
-        maxInstancesPerEmitter = 1,    
-        clip { file = media/sound/sfx_thunder_close_04.wav, volume = 0.20, }
-    }
-
-    sound sfx_thunder_far_01
-    {
-        category = Item,
-        maxInstancesPerEmitter = 1,    
-        clip { file = media/sound/sfx_thunder_far_01.wav, volume = 0.20, }
-    }
-
-    sound sfx_thunder_far_02
-    {
-        category = Item,
-        maxInstancesPerEmitter = 1,    
-        clip { file = media/sound/sfx_thunder_far_02.wav, volume = 0.20, }
-    }
-
-    sound sfx_thunder_far_03
-    {
-        category = Item,
-        maxInstancesPerEmitter = 1,    
-        clip { file = media/sound/sfx_thunder_far_03.wav, volume = 0.20, }
     }
 }

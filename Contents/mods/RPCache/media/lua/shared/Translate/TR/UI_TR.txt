@@ -24,11 +24,11 @@ UI_TR = {
     UI_prof_scrapmech = "Hurdacý",
     UI_profdesc_scrapmech = "Metal ve türlülerinden anlýyorsun, jeneratör kullanmayý eski hayatýndan hatýrlýyorsun.",
 
-    UI_ClickToSkip = "Ýþte böyle öldün.",
+    UI_ClickToSkip = "Geride býrakýlmaya hazýr mýsýn?",
     UI_Loading = "Ölümün hazýrlanýyor.",
-    UI_Intro1 = "Ýnsan aðaca benzer, ne kadar yükseðe ve aydýnlýða çýkmak isterse...", 
-    UI_Intro2 = "O kadar kök salar yere, aþaðýlara, karanlýða, derinlere ve kötülüðe.", 
-    UI_Intro3 = "- Friedrich Nietzsche",
+    UI_Intro1 = "Umut, en karanlýk gecede bile insanýn içindeki son ýþýktýr...",
+    UI_Intro2 = "Ama o ýþýk söndüðünde, geriye yalnýzca hasta bir gelecek ve unutulmuþ bir insanlýk kalýr.",
+    UI_Intro3 = "",
     UI_mainscreen_version_steam = "made by cobwebwell with <3 - Versiyon %1 (Steam)",
 
 }
